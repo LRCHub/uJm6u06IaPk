@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Follow Her",
+  "base_artist": "Zeeky Beats",
+  "createdAt": "2026-03-19T14:22:20.027275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Follow Her",
+      "artist": "Zeeky Beats",
+      "has_synced": true,
+      "path": "select/01_Follow_Her_Zeeky_Beats.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Will Follow Her (Remastered 2002)",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/02_I_Will_Follow_Her_(Remastered_2002)_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Will Follow Her",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/03_I_Will_Follow_Her_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Follow Her Lead",
+      "artist": "Eric Bellinger",
+      "has_synced": false,
+      "path": "select/04_Follow_Her_Lead_Eric_Bellinger.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Follow Her (feat. Kizz Daniel)",
+      "artist": "Blaqbonez",
+      "has_synced": true,
+      "path": "select/05_Follow_Her_(feat._Kizz_Daniel)_Blaqbonez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Follow Her (feat. Kizz Daniel)",
+      "artist": "Blaqbonez\u0000Kizz Daniel",
+      "has_synced": false,
+      "path": "select/06_Follow_Her_(feat._Kizz_Daniel)_Blaqbonez\u0000Kizz_Daniel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Follow Her Around",
+      "artist": "What's Eating Gilbert",
+      "has_synced": false,
+      "path": "select/07_Follow_Her_Around_What's_Eating_Gilbert.txt"
+    }
+  ]
+}
